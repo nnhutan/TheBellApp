@@ -1,0 +1,31 @@
+.product-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+}
+.fixed-top {
+  top: -20px;
+  transform: translateY(20px);
+  transition: transform 0.3s;
+}
+
+.home-dashboard .card {
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+.home-dashboard .card:hover {
+  transform: translateY(-2px);
+}
+
+#liveAlertPlaceholder {
+  position: fixed;
+  right: 0;
+  top: 30%;
+}
+
+.footer a:hover {
+  color: #ccc !important;
+}
+
+.modal-body figure img {
+  width: 100%;
+}
