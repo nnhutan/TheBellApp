@@ -7,11 +7,7 @@ function ServiceInfo() {
         <div className="row">
           <div className="col-lg-3">
             <div className="card card-body text-center p-4">
-              <img
-                src="https://demo.themeies.com/silon/images/feature-icons/1.png"
-                alt="icon"
-                style={{ maxWidth: "56px", margin: "0 auto 24px" }}
-              />
+              <i className="bi bi-coin text-danger fs-2 mb-2"></i>
               <h6 className="text-uppercase mb-0 fw-bold">đảm bảo hoàn tiền</h6>
               <p className="text-secondary mb-0 fst-italic fw-light">
                 Một trải nghiệm an toàn
@@ -20,11 +16,7 @@ function ServiceInfo() {
           </div>
           <div className="col-lg-3">
             <div className="card card-body text-center p-4">
-              <img
-                src="https://demo.themeies.com/silon/images/feature-icons/2.png"
-                alt="icon"
-                style={{ maxWidth: "56px", margin: "0 auto 24px" }}
-              />
+              <i className="bi bi-truck text-danger fs-2 mb-2"></i>
               <h6 className="text-uppercase mb-0 fw-bold">
                 miễn phí vận chuyển
               </h6>
@@ -35,11 +27,7 @@ function ServiceInfo() {
           </div>
           <div className="col-lg-3">
             <div className="card card-body text-center p-4">
-              <img
-                src="https://demo.themeies.com/silon/images/feature-icons/3.png"
-                alt="icon"
-                style={{ maxWidth: "56px", margin: "0 auto 24px" }}
-              />
+              <i className="bi bi-headset text-danger fs-2 mb-2"></i>
               <h6 className="text-uppercase mb-0 fw-bold">Tư vấn nhiệt tình</h6>
               <p className="text-secondary mb-0 fst-italic fw-light">
                 Đội ngũ tư vấn viên lớn
@@ -48,11 +36,7 @@ function ServiceInfo() {
           </div>
           <div className="col-lg-3">
             <div className="card card-body text-center p-4">
-              <img
-                src="https://demo.themeies.com/silon/images/feature-icons/4.png"
-                alt="icon"
-                style={{ maxWidth: "56px", margin: "0 auto 24px" }}
-              />
+              <i className="bi bi-shield-fill-check text-danger fs-2 mb-2"></i>
               <h6 className="text-uppercase mb-0 fw-bold">
                 An toàn thanh toán
               </h6>
